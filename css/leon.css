@@ -437,7 +437,7 @@ body {
 }
 @media (max-width: 767px) {
     .contact .contact-content .label,
-    .contact .contact-content .link {
+    .contact .contact-content .link{
         font-size: 25px;
     }
 }
